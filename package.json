@@ -1,0 +1,26 @@
+{
+  "name": "hmac-library",
+  "version": "1.0.0",
+  "description": "Calcula la firma HMAC de una cadena concreta",
+  "main": "appHmac.js",
+  "dependencies": {
+    "crypto": "~0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node appHmac.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beeva-pabloantoniovaliente/cryptoHmac.git"
+  },
+  "keywords": [
+    "hmac",
+    "md5",
+    "hash"
+  ],
+  "author": "pablo",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "35ef3aab295fbfef3ba7e0d45ff7e4dfeff3781c"
+}
